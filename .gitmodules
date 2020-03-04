@@ -1,0 +1,6 @@
+[submodule "device_tracker_fe"]
+	path = device_tracker_fe
+	url = git@github.com:kryochronic/device_tracker.git
+[submodule "device_tracker_be"]
+	path = device_tracker_be
+	url = git@github.com:kryochronic/device_tracker_be.git
